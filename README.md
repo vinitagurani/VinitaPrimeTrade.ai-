@@ -4,6 +4,7 @@ A full-stack task management application built with the MERN stack, featuring se
 
 A full-stack task management application with secure authentication, role-based access control, and CRUD operations. Built using **Node.js, Express, MongoDB, and React**, this project demonstrates backend-focused development with a scalable and production-ready architecture.
 
+Here is the link of postman collection with API documention: https://team99-0652.postman.co/workspace/PrimeTrade.ai~99d6552f-5e67-49fe-b192-86e3afb76a74/collection/38266609-6bde055d-bff7-4966-86fe-aadc990d4cb3?action=share&creator=38266609
 ---
 
 ## 📌 Features
@@ -175,6 +176,9 @@ Admin users are created manually in the database with:
 ```json
 "role": "admin"
 ```
+For now I have created a admin with these credentials:
+email: vinita1@gmail.com
+password: 123456
 
 ---
 
